@@ -165,7 +165,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ### LED_RESET
 ![](EXP01_PMC_OP1.jpg)
 ### LED_SET
-![](EXP02_PMC_OP2.jpg)
+![](EXP01_PMC_OP2.jpg)
  
  
 ## Result :
